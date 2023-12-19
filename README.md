@@ -86,3 +86,7 @@ python launch_dpo.py --config dpo_config/example.yaml --working $WORKING_DIR --g
   year        = {2023}
 }
 ```
+
+## Acknowledgements
+
+We would like to thank the authors of [trl](https://github.com/huggingface/trl) and [Qwen-VL](https://github.com/QwenLM/Qwen-VL) for their great work.
